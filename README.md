@@ -1,13 +1,12 @@
-# LB259_MijatovicMax_GameSales
+# LB259_MijatovicMax_LoL_Master_RankedGames
 
 Beschreibung des Datensatzes
 
-Dieser Datensatz enthält Verkaufszahlen von Videospielen aus dem Jahr 2024. Er stammt von vgchartz und ist über Kaggle frei zugänglich. Der Datensatz umfasst über 10’000 Einträge. Jede Zeile beschreibt ein Spiel mit verschiedenen Merkmalen wie Titel, Konsole, Genre, Publisher, Erscheinungsdatum, Kritikerbewertung, Nutzerbewertung sowie regionale und weltweite Verkaufszahlen.
-
-Zwischen den Feldern bestehen Zusammenhänge. Zum Beispiel können Genre, Plattform oder Bewertungen einen Einfluss auf die Verkaufszahlen haben.  Ziel des Projekts ist es, mithilfe dieser Daten ein Modell zu erstellen, das den kommerziellen Erfolg eines Spiels vorhersagen kann.
+Dieser Datensatz enthält Statistiken von League of Legends Ranked-Spielen auf Master-Niveau. Er stammt von Kaggle und ist frei zugänglich. Der Datensatz umfasst über 100’000 Einträge. Jede Zeile beschreibt ein Spiel mit verschiedenen Merkmalen wie Kills, Gold, Erfahrungspunkte, zerstörte Türme, Drachen oder Barons für beide Teams.
+Zwischen den Feldern bestehen Zusammenhänge. Zum Beispiel können Kills, Gold oder Objectives wie Drachen einen Einfluss darauf haben, welches Team das Spiel gewinnt. Ziel des Projekts ist es, mithilfe dieser Daten ein Modell zu erstellen, das vorhersagen kann, ob das blaue Team ein Spiel gewinnt.
 
 Datenschutz
 
-Der Datensatz enthält keine personenbezogenen Daten. Es werden nur Informationen zu Videospielen und deren Verkaufszahlen gespeichert. Es sind keine Namen, Adressen oder andere identifizierbare Daten von Personen enthalten.
+Der Datensatz enthält keine personenbezogenen Daten. Es werden nur statistische Informationen aus League of Legends Spielen gespeichert. Es sind keine Spielernamen, Accounts oder andere identifizierbare Daten von Personen enthalten.
 
-Da es sich ausschliesslich um öffentliche Marktdaten handelt, bestehen keine datenschutzrechtlichen Risiken. Der Datensatz wurde über Kaggle veröffentlicht und ist frei zugänglich. Aus datenschutzrechtlicher Sicht ist die Nutzung dieses Datensatzes unproblematisch.
+Da es sich ausschliesslich um anonymisierte Spielstatistiken handelt, bestehen keine datenschutzrechtlichen Risiken. Der Datensatz wurde über Kaggle veröffentlicht und ist frei zugänglich. Aus datenschutzrechtlicher Sicht ist die Nutzung dieses Datensatzes unproblematisch.
