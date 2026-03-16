@@ -2,7 +2,7 @@
 
 Beschreibung des Datensatzes
 
-Dieser Datensatz enthält Statistiken von League of Legends Ranked-Spielen auf Master-Niveau. Er stammt von Kaggle und ist frei zugänglich. Der Datensatz umfasst über 100’000 Einträge. Jede Zeile beschreibt ein Spiel mit verschiedenen Merkmalen wie Kills, Gold, Erfahrungspunkte, zerstörte Türme, Drachen oder Barons für beide Teams.
+Dieser Datensatz enthält Statistiken von League of Legends Ranked-Spielen auf Master-Niveau. Er stammt von Kaggle und ist frei zugänglich. Der Datensatz umfasst 99’000 Einträge. Jede Zeile beschreibt ein Spiel mit verschiedenen Merkmalen wie Kills, Gold, Erfahrungspunkte, zerstörte Türme, Drachen oder Barons für beide Teams.
 Zwischen den Feldern bestehen Zusammenhänge. Zum Beispiel können Kills, Gold oder Objectives wie Drachen einen Einfluss darauf haben, welches Team das Spiel gewinnt. Ziel des Projekts ist es, mithilfe dieser Daten ein Modell zu erstellen, das vorhersagen kann, ob das blaue Team ein Spiel gewinnt.
 
 Datenschutz
